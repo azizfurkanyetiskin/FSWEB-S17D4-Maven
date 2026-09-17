@@ -1,0 +1,10 @@
+INSERT INTO ogrenci (ogrno, ograd, soyad, cinsiyet, sinif, puan, dtarih) VALUES (1, 'Hülya', 'Yiğit', 'K', '10A', 85, '2005-05-12');
+INSERT INTO ogrenci (ogrno, ograd, soyad, cinsiyet, sinif, puan, dtarih) VALUES (2, 'Cemal', 'Kaya', 'E', '9A', 75, '2004-06-05');
+INSERT INTO ogrenci (ogrno, ograd, soyad, cinsiyet, sinif, puan, dtarih) VALUES (3, 'Deniz', 'Çelik', 'K', '9A', 95, '2007-11-20');
+INSERT INTO ogrenci (ogrno, ograd, soyad, cinsiyet, sinif, puan, dtarih) VALUES (4, 'Emre', 'Aydın', 'E', '10B', 80, '2008-01-10');
+INSERT INTO ogrenci (ogrno, ograd, soyad, cinsiyet, sinif, puan, dtarih) VALUES (5, 'Betül', 'Demir', 'K', '10B', 90, '2006-03-10');
+INSERT INTO ogrenci (ogrno, ograd, soyad, cinsiyet, sinif, puan, dtarih) VALUES (6, 'Fatma', 'Koç', 'K', '11A', 88, '2007-09-25');
+INSERT INTO ogrenci (ogrno, ograd, soyad, cinsiyet, sinif, puan, dtarih) VALUES (7, 'Gizem', 'Şahin', 'K', '11B', 70, '2006-12-01');
+INSERT INTO ogrenci (ogrno, ograd, soyad, cinsiyet, sinif, puan, dtarih) VALUES (8, 'Kenan', 'Emin', 'E', '12A', 70, '1990-01-01');
+INSERT INTO ogrenci (ogrno, ograd, soyad, cinsiyet, sinif, puan, dtarih) VALUES (9, 'Niyazi', 'Sevinç', 'E', '12A', 99, '2015-01-01');
+INSERT INTO ogrenci (ogrno, ograd, soyad, cinsiyet, sinif, puan, dtarih) VALUES (10, 'Sema', 'Yıldız', 'E', '11B', 96, '2006-02-18');

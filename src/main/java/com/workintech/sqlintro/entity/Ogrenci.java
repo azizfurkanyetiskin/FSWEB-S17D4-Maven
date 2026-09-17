@@ -14,11 +14,13 @@ public class Ogrenci {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long ogrno;
+
+    @Column(name="ograd")
     private String ad;
     private String soyad;
     private String cinsiyet;
     private String sinif;
     private int puan;
-    @Column(nullable = true)
+    
     private String dtarih;
 }
